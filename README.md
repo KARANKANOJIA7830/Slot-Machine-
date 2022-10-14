@@ -79,5 +79,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 This will look like -->
 <br>
-<img scr="https://user-images.githubusercontent.com/86140822/194882483-7768bdd5-58ae-46b4-a0e1-c5daa8f037f3.png">
+<img scr="![sm](https://user-images.githubusercontent.com/86140822/195827651-f0cb0032-920c-4bb5-87fb-1fe2c56befa0.png)">
 
