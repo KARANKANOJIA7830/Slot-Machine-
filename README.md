@@ -78,6 +78,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <br>
 
 This will look like -->
-<br>
-<img scr="![sm](https://user-images.githubusercontent.com/86140822/195827651-f0cb0032-920c-4bb5-87fb-1fe2c56befa0.png)">
+<br><br>
+![sm](https://user-images.githubusercontent.com/86140822/195827651-f0cb0032-920c-4bb5-87fb-1fe2c56befa0.png)
 
